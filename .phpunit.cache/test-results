@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AdminPropertyTest::testPropertyAdditionSuccess":5,"AdminPropertyTest::testPropertyAdditionFailure":5},"times":{"AdminPropertyTest::testPropertyAdditionSuccess":0.021,"AdminPropertyTest::testPropertyAdditionFailure":0.001}}

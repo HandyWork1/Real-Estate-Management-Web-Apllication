@@ -1,0 +1,13 @@
+{
+    "name": "khali/real-estate-php",
+    "require": {
+        "phpunit/phpunit": "^10.4",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "authors": [
+        {
+            "name": "HandyWork1",
+            "email": "khalilbrainiarc1@gmail.com"
+        }
+    ]
+}
